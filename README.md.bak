@@ -11,5 +11,5 @@ In order to use your own data, you have to provide
 an T by N BOLD signal matrix for every subject (N is the number of nodes,T is the time series length).
 
 # RESEARCH PAPERS USING THIS SOFTWARE:
--  Renping Yu, Cong Pan, Xuan Fei, Mingming Chen, and Dinggang Shen, Fellow, IEEE, Multi-Graph Attention Networks with Bilinear Convolution for Diagnosis of Schizophrenia.
+-  Renping Yu, Cong Pan, Xuan Fei, Mingming Chen, and Dinggang Shen, Fellow, IEEE, Multi-Graph Attention Networks with Bilinear Convolution for Diagnosis of Schizophrenia, IEEE Journal of Biomedical and Health Informatics
 
