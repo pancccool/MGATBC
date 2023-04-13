@@ -1,5 +1,5 @@
 # MGATBC
-MGAT is used for schizophrenia diagnostic analysis based on fMRI.
+MGAT-BC is used for schizophrenia diagnostic analysis based on fMRI.
 # Requirement
 pip3 install -r requirements.txt/requirements_(knn_adj).txt
 
